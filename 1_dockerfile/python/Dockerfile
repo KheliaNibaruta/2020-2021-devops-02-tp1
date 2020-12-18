@@ -1,4 +1,4 @@
-From python:2.7-alpine3.9
+FROM python:2.7-alpine3.9
 
 WORKDIR /GitHub/2020-2021-devops-02-tp1/1_dockerfile/python
 
